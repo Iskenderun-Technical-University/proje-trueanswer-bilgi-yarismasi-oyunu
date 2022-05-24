@@ -1,0 +1,2 @@
+C:\Users\doguhan\Desktop\True Reply New 14.09.2020\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\doguhan\Desktop\True Reply New 14.09.2020\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
