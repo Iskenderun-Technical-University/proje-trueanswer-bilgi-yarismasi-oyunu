@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sorular>
+    <Soru>
+      <Soru_Text>'Kitabın da kumun da ne başı var ne sonu' cümlesinin yer aldığı 'Kum Kitabı' ve 'Yolları Çatallanan Bahçe' kitaplarının yazarı kimdir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Boris Vian</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Pablo Neruda</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Luis Borges</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Milan Kundera</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'İtidalli olmak' sözü hangisini ifade eder?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Soğukkanlı olmak</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Huzurlu olmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sıcakkanlı olmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Tedbirli olmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Erkek çocuk kıyafetlerinde beden ölçüsünü ifade eden, Fransızca anlamı 'erkek çocuk' olan kelime hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Maskot</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Garson</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Patron</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kral</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Enseyi karartmayın' diyen biri hangisine karşı çıkmaktadır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Şüpheciliğe</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Pişmanlığa</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Yalnızlığa</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Umutsuzluğa</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Deniz Gezmiş ve arkadaşlarının idamlarını anlatan “Gülünün Solduğu Akşam”ın yazarı kimdir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Erdal Öz</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Vedat Türkali</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Oğuz Atay</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Refik Durbaş</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Halk arasında mutlu bir ailenin tamamlayıcısı olarak görülen çocuk için yapılan benzetme hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Çiçek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Meyve</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Toprak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kök</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Laf kumkuması' sözünde de geçen 'kumkuma' kelimesinin anlamı nedir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Deve</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çorba</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Testi</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Ağaç</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Halk arasında 'keçi yemişi ve enir' de denilen, pastalara konulan küçük, yuvarlak, mor ve mavi renkli mayhoş meyve hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Alıç</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kuşburnu</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Ihlamur</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Yaban mersini</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Nevri dönmek' sözündeki 'nevir' kelimesinin anlamı hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Yüzün rengi</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Beden dili</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gözün feri</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sesin tonu</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Yaprakları yuvarlak ve geniş, çiçekleri genellikle beyaz renkte, durgun sularda yetişen su bitkisi hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Menekşe</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Nilüfer</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gelincik</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sümbül</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+  </Sorular>
+</Data>

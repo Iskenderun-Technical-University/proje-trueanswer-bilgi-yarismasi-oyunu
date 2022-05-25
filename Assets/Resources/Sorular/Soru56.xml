@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sorular>
+    <Soru>
+      <Soru_Text>Parmaklarını sonuna kadar gerip yüzüne doğru tutarak 'Surat böyle' diyen biri, bahsettiği kişinin nasıl olduğunu söylüyordur?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Aklının havada</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Yüzünün asık</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Elinin sıkı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çenesinin düşük</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Kendiyle ilgili bir konuda gururlanıp, büyüklük taslayan kişilerin nasıl kasıldığı söylenir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kıs kıs</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gıcır gıcır</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Pırıl pırıl</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kasım kasım</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Duygusal bir duruma direnmekten vazgeçen birinin hangilerini suya indirdiği söylenir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Yelkenler</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kanatlar</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kürekler</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Köprüler</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Yapılan bir işi bozan kişilere söylenen sözde, berbat edilen incirin miktarı ne kadardır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Bir torba</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bir düzine</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bir çuval</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bir avuç</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Görgüsüzlüğün kişiyi gülünç duruma düşüreceğini anlatan sözde, kekliği taklit ederken kendi yürüyüşünü şaşıran hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Ördek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Karga</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Tavuk</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sincap</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Yerinde zıplayarak vücudunun yan taraflarını ve kafasının üstünü taşıyan biri hangi hayvanın taklidini yapmaktadır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Fil</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kanguru</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Maymun</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kedi</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Tımarlamak' özellikle hangi hayvanın bakımıyla ilgili yapılan işleme verilen addır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>At</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Manda</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Keçi</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>İnek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Bir olay sonrasında hayata bakışı değişen biri, hayata hangisinin farklısından baktığını söyler?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kapı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Teras</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kitap</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Pencere</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Bir işte, gereği yokken, kendini göstermek için 'sorumluluk yüklenmek' anlamında kullanılan sözde, durumdan ne çıkarıldığı söylenir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Vazife</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>İftihar</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Zarar</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Fayda</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Eski tip, klasik sefer taslarında genellikle kaç adet tas bulunur?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>5</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>3</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>6</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>4</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+  </Sorular>
+</Data>

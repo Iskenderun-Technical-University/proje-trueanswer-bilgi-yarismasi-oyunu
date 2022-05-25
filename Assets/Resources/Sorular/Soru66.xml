@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sorular>
+    <Soru>
+      <Soru_Text>Terk edilmiş köy evlerinde sık görülen, evlerin duvarlarını yıkıp taşları delebilen ağaç hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kestane ağacı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Portakal ağacı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>İncir ağacı</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Erik ağacı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Aheste çek kürekleri, mehtap uyanmasın' ve 'Dönülmez akşamın ufkundayız, vakit çok geç' dizeleri hangi şaire aittir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Yahya Kemal Beyatlı</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Nazım Hikmet</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Ahmet Haşim</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Behçet Kemal Çağlar</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Halk arasında kullanılan bir söze göre, bin tane ah işitmek için dertli birine kaç kere dokunmanız yeterlidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>5</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>3</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>4</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>1</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Halk arasında anlatılan bir hikayeye göre, yılanın kızıp saldırarak bir tüyünü koparıp kuyruğunun çatal şeklinde kalmasına sebep olduğu kuş hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kuzgun</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kırlangıç</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Baykuş</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Akbaba</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Zor durumda olan birini korumak, yardım etmek' anlamında kullanılan söz hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kol kanat germek</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çanak tutmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bel bağlamak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Merdiven dayamak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Hangi hayvana 'Neren eğri?' diye sorulduğunda 'Neren eğri?' diye cevap alınır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Yılan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Tilki</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Papağan</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Deve</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Harry Potter, Notre Dame’ın Kamburu ve Da Vinci Şifresi gibi romanlarda adı geçen Nicolas Flamel’in, hangisini bulduğu söylenmektedir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Anahtar Taşı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gök Taşı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Rosetta Taşı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Felsefe Taşı</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Lambanın etrafına takılarak ışığın şiddetini azaltmaya yardımcı olan yuvarlak parça hangi meyvenin adıyla anılır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Ayva</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Karpuz</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Ananas</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kivi</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>İsveç'te yere düşüp çürüyerek fermante olan elmaları yiyerek sarhoş olup insanları evlerine sokmayan, elma ağaçlarında sızan hayvan hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Geyik</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Aslan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Maymun</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Ayı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Avignonlu Kızlar' , 'Ağlayan Kadın' ve 'Guernica' isimli tablolar hangi ressama aittir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Raffaello Sanzio</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Vincent Van Gogh</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Salvador Dali</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Pablo Picasso</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+  </Sorular>
+</Data>

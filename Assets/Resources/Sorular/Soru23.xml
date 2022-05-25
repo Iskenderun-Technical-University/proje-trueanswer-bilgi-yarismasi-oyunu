@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sorular>
+    <Soru>
+      <Soru_Text>Hangisi 'hiçbir iş yapmadan yan gelip yatmak’ anlamında kullanılır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Burun sallamak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Ense yapmak</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kaş oynatmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Göz kırpmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Bir düğün sırasında 'gelinin babasından’, 'damadın halasından’ gibi ifadeler duyuyorsanız hangisi başlamış demektir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Nikah töreni</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Misafir karşılama</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Dans</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Takı töreni</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Hiç ummadığı biriyle hiç ummadığı bir mekanda karşılaşanlar, birbirlerine hangisini söyleyerek şaşkınlıklarını ifade ederler?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Dünya küçük</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Telefon çekmiyor</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Hayat uzun</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Saat erken</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Bir süredir devam etmekte olan ve herkesin bildiği bir durumu geç fark eden heyecanlı kişilere şaka amaçlı söylenen söz hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Yine geliriz</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>İyi geceler</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Günaydın</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Hoşçakal</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Asma yaprağı' özellikle hangi meyvenin bitkisine verilen isimdir?  </Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Dut</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Üzüm</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kayısı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Zeytin</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Sorulan soruya 'dilimin ucunda’ diye cevap veren biri hangisini ifade eder?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Bilmiyorum ama öğrenmem</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bilmiyorum ama öğrenirim</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Biliyorum ama söylemem</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Biliyorum ama hatırlamıyorum</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Yirmilik dişler' olarak adlandırılan dişler, hangi diş çeşidine aittir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Azı dişi</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Birleşik diş</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Süt dişi</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Köpek dişi</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Kısa ve çabuk adımlarla yürümek veya bir yere istemeyerek gitmek zorunda kalmak' halk arasında nasıl ifade edilir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Tıkır tıkır</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kıpır kıpır</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Tıpış tıpış</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Hışır hışır</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Bir konuda elinden hiçbir şey gelmediğini ifade etmek isteyen biri, hangi klişe sözü söyler?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Gözümün ağrı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gözümde küçüldü</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Eline sağlık</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Elim kolum bağlı</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Nikahın geçerli olması için, evlenecek çiftin nikah memurunun sorduğu soruya hangi cevabı vermesi gerekli ve yeterlidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Bana uyar</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Evet</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Hayır</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Belki</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Diyet yapan kişiler, ara sıra yedikleri kalorili yiyecekleri ne olarak nitelendirirler?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kaçamak</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Uykuluk</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Baskıç</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Yolluk</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Dıgıdık dıgıdık' diyerek evde koşan bir çocuk, hangi hayvanın taklidini yapmaktadır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Aslan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Köpek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>At</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>İnek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Birinin kapının koluna ip bağladığını görüyorsanız, ipin diğer ucuna bağlanmış olan şey genellikle hangisi olur?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Burun</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kulak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Parmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Diş</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Çizgi filmlerde genellikle burnunda halkayla ve oldukça sinirli olarak gösterilen hayvan hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Yengeç</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Boğa</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>İnek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Fare</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Halk arasında yaygın olarak kullanılan sözde hangisine zeval olmayacağı söylenir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Elçiye</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Zengine</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Müdüre</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Köleye</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+  </Sorular>
+</Data>

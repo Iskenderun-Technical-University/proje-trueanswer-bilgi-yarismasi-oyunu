@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sorular>
+    <Soru>
+      <Soru_Text>'Ağzı kulaklarına varmak' deyimin anlamı hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Yaralanmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Mutsuz olmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çok sevinmek</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sinirlenmek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Horozu çok olan köyde' şeklinde başlayan atasözün devamı nasıldır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Akşam geç olur</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Öğlen erken olur</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sabah erken olur</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sabah geç olur</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Gıpgıcır' ne anlama gelir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kıpkırmızı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Yepyeni</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Simsiyah</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çok eski</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Oldukça sessiz, sakin, kendi hâlinde' ifade edilen deyim hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Ağzı var,dili yok</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Allem etmek,kallem etmek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Aklına gelen başına gelmek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Baklayı ağzından çıkarmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Farkında olmadan karşısındakini rahatsız edecek,kızdıracak söz söylemek' ifade edilen deyim hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Bardağı taşıran son damla</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Başına çorap örmek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Baltayı taşa vurmak</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Atı alan Üsküdar'ı geçti</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Hangi meyvenin 'Vaşington' adıyla satılan bir çeşidi vardır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kiraz</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çilek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Erik</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Portakal</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Anasından doğduğuna pişman etmek' deyimin anlamı hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Hiçbir şeyi beğenmemek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çok eziyet ederek canından bezdirmek</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sonunda insanın sabrını tüketmek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text> Onu yenmeye gücü yetmek</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Dal sarkar kartal kalkar' şeklinde biten tekerlemenin başı nasıldır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kartal uçar dal sarkar</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kartal kalkar dal sarkmaz</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kartal uçar dal düşmez</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kartal kalkar dal sarkar</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Büyük lokma ye' şeklinde başlayan atasözün devamı hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Büyük söz söyleme</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çok konuşma</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Öz konuş</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Karnını doyur</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Halk arasında özellikle hangi yağmurun bereket getirdiğine inanılır?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Ekim yağmuru</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Nisan yağmuru</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Şubat yağmuru</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Eylül yağmuru</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Hangisi, internetten video izlerken en çok karşılaşılan görüntü modlarından biri değildir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>720p</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>480p</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>1080p</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>640p</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Uzun süren ve bol çeşitli kahvaltıların tercih edildiği gün genellikle hangisi olur?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Pazar</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Salı</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Perşembe</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Cuma</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Akçanın iyisi kesede duran' şeklinde başlayan atasözün devamı hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Bahçenin kötüsü eve uzak olan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bahçenin iyisi eve uzak olan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bahçenin iyisi eve yakın olan</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Bahçenin kötüsü okula uzak olan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Akılsız başın zahmetini' şeklinde başlayan atasözün devamı hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Kollar çeker</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Ayaklar çeker</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gözler çeker</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Dişler çeker</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Bir çocuk oyununda oyuncular 'deve' dendiğinde ayağa kalkıyorlarsa hangisi dendiğinde çömelirler?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Hücre</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gece</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gündüz</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Cüce</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Ateş bacayı sarmak' deyimin anlamı hangisidir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Bir iş ya da olay önüne geçilemez</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Gizli tuttuğu şeyleri açıklamak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>İstediğini elde etmek için her türlü kurnazlığa başvurmak</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kazandığını günü gününe harcayan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Bugün tersinden mi kalktın' sorusu hangi duygu halindeki insanlara sorulur?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Mutlu</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Sinirli</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Eğlenceli</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Korkunç</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Otomatik vitesli araçlarda ileri gitmek için kullanılan vites hangi harfle ifade edilir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>P</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>R</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>D</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>W</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>'Sini' hangisinin bir çeşididir?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Tepsi</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Çatal</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Makas</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Fincan</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+    <Soru>
+      <Soru_Text>Hangisi diğerlerinden daha büyüktür?</Soru_Text>
+      <Cevaplar>
+        <Cevap>
+          <Cevap_Text>Mars</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Dünya</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Galaksi</Cevap_Text>
+          <Dogru>false</Dogru>
+        </Cevap>
+        <Cevap>
+          <Cevap_Text>Kozmos</Cevap_Text>
+          <Dogru>true</Dogru>
+        </Cevap>
+      </Cevaplar>
+      <SureKullan>true</SureKullan>
+      <Sure>10</Sure>
+      <Tip>Metin</Tip>
+      <SkorEkle>5</SkorEkle>
+    </Soru>
+  </Sorular>
+</Data>
