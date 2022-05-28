@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5d0911813a993cb4a9b3a0e4d46388a6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Snowstorm Kraft
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a3c5dfce4accd0b409f8302347dd9b1e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

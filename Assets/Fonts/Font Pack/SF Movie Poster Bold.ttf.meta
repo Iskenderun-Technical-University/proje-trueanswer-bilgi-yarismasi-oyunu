@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 787e1ef41d4e3484f89e653c47d743c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Movie Poster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0575e9ecb7649aa4cb4e1093e4ca2dc7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

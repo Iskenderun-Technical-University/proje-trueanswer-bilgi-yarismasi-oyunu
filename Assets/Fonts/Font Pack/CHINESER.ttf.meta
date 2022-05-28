@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: be13e901947e3cf4896e7bd066cc2512
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chinese Rocks
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e5d81fb402c67b249aa23d957cc0220b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
