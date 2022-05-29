@@ -1,4 +1,3 @@
-https://play.google.com/store/apps/details?id=com.PusulaGameStudios.PG&hl=tr&gl=US
 
 
 UML Sınıf Diagramı
